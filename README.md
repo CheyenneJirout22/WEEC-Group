@@ -1,0 +1,2 @@
+# WEEC-Group
+Groupproject WEEC
